@@ -14,7 +14,7 @@ while total_population < 1000000:
 
 
 
-###############################################################################################################
+        
 import random
 startingPopulation = 50
 infantMortality = 25
