@@ -74,8 +74,6 @@ cap.set(3, frameWidth)
 cap.set(4, frameHeight)
  
  
-def empty(a):
-    pass
  
 cv2.namedWindow("HSV")
 cv2.resizeWindow("HSV", 640, 240)
